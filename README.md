@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/renatoburton/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/15394508/179099071-33872180-731d-44cc-adda-5d83ddb967ed.jpg" alt="Cybersecurity"></a>
-</p>
-
 <h3 align="center">
 Olá, eu sou <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Burton</a> 👋
 </h3>
