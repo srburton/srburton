@@ -45,6 +45,10 @@ Sou um desenvolvedor backend que se apaixonou pela área de Cybersecurity, hoje 
 - [Gestão de Vulnerabilidades: tudo o que você precisa saber](https://www.zup.com.br/blog/gestao-de-vulnerabilidades)
 - [Log4j: entenda o caso das vulnerabilidades na biblioteca de logging Java](https://www.zup.com.br/blog/log4j-vulnerabilidade)
 
+## 📦 Contribuições
+
+- [DefectDojo](https://github.com/DefectDojo/django-DefectDojo/blob/master/dojo/tools/horusec/parser.py)
+
 ## 📈 Estatísticas do GitHub 
 
 [![Burton github stats](https://github-readme-stats.vercel.app/api?username=srburton)](https://github.com/srburton)
