@@ -48,6 +48,7 @@ Sou um desenvolvedor backend que se apaixonou pela área de Cybersecurity, hoje 
 ## 📦 Contribuições
 
 - [DefectDojo](https://github.com/DefectDojo/django-DefectDojo/blob/master/dojo/tools/horusec/parser.py)
+- [Secure Code Box](https://github.com/secureCodeBox)
 
 ## 📈 Estatísticas do GitHub 
 
