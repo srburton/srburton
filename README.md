@@ -42,7 +42,7 @@ Sou um desenvolvedor backend que se apaixonou pela área de Cybersecurity, hoje 
 ## 📦 Contribuições
 
 - [DefectDojo](https://github.com/DefectDojo/django-DefectDojo/blob/master/dojo/tools/horusec/parser.py)
-- [Secure Code Box](https://github.com/secureCodeBox)
+- [Secure Code Box](https://github.com/secureCodeBox/secureCodeBox/pull/1526)
 - [Dart Language](https://github.com/dart-lang/sdk/pull/51026)
 - [Country Flags](https://github.com/arturograu/country_flags/tree/main)
 
