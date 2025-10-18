@@ -2,15 +2,9 @@
 Olá, eu sou <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Burton</a> 👋
 </h3>
 
-<h2 align="center">
-Eu sou Desenvolvedor, AppSec e piloto 🏍️
-</h2> 
-
 Sou um desenvolvedor backend que se apaixonou pela área de Cybersecurity, hoje atuando como Application Security tenho como objetivo disseminar o mindset de segurança para os desenvolvedores.
 
 ### 🤝 Conecte-se comigo
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=srburton.srburton)](https://www.linkedin.com/in/renatoburton/)
 
 [![](https://img.shields.io/badge/Linkedin-informational?style=flat&logo=linkedin&color=blue)](https://www.linkedin.com/in/renatoburton/)
 [![](https://img.shields.io/badge/Stackoverflow-white?style=flat&logo=stackoverflow&color=white)](https://stackoverflow.com/users/9881950/srburton)
