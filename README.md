@@ -45,7 +45,3 @@ Sou um desenvolvedor backend que se apaixonou pela área de Cybersecurity, hoje 
 - [Secure Code Box](https://github.com/secureCodeBox/secureCodeBox/pull/1526)
 - [Dart Language](https://github.com/dart-lang/sdk/pull/51026)
 - [Country Flags](https://github.com/arturograu/country_flags/tree/main)
-
-## 📈 Estatísticas do GitHub 
-
-[![Burton github stats](https://github-readme-stats.vercel.app/api?username=srburton)](https://github.com/srburton)
